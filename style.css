@@ -1,0 +1,5 @@
+.back {
+    background-image: url("castle.jpg");
+    background-size: cover;
+    background-color: lightgray;
+  }

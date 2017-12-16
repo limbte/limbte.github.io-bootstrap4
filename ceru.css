@@ -18,6 +18,9 @@ html {
   }
   body {
     margin: 0;
+    background-image: url("castle.gif");
+    background-size: cover;
+
   }
   article,
   aside,
